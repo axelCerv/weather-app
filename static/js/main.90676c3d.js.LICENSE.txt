@@ -4,6 +4,12 @@ object-assign
 @license MIT
 */
 
+/*!
+ * vary
+ * Copyright(c) 2014-2017 Douglas Christopher Wilson
+ * MIT Licensed
+ */
+
 /*! @license Rematrix v0.3.0
 
 	Copyright 2018 Julian Lloyd.
